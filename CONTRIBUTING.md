@@ -37,18 +37,18 @@ ____
 ----
 <b name="tech">Technical Interview Questions</b>
 <br/>
-<i><u name="dsalg">Data Structures and Algorithms</u></i>
+<i><u name="dsalg"><b>Data Structures and Algorithms</b></u></i>
 
 - Questions in this section.
 <br/>
-<i><u name="dbms">DBMS</u></i>
+<i><u name="dbms"><b>DBMS</b></u></i>
 
 - Questions in this section.
 <br/>
-<i><u name="os">Operating System</u></i>
+<i><u name="os"><strong>Operating System</strong></u></i>
 
 - Questions in this section.
 <br/>
-<i><u name="misc">Miscellaneous</u></i>
+<i><u name="misc"><b>Miscellaneous</b></u></i>
 
 - Questions in this section.
